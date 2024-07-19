@@ -2,7 +2,11 @@
 <h1 align="center">Hey👋 Friend's!</h1>
 <h3 align="center">Hi 🙋‍♂️, I'm Parshav, an AI/ML developer with a passion for design and model creation</h3>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parshav14&label=Profile%20views&color=0e75b6&style=flat" alt="parshav14" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=parshav14&label=Profile%20views&color=0e75b6&style=flat" alt="parshav14" /> </p> -->
+
+<p align="left" href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Parshav14&label=Profile%20Views&color=0&icon=5&pretty=false" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parshav14" alt="parshav14" /></a> </p>
 
@@ -28,7 +32,7 @@
 <a href="https://linkedin.com/in/parshav-singla-977a75253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parshav-singla-977a75253" height="30" width="40" /></a>
 <a href="https://kaggle.com/parshavsingla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="parshavsingla" height="30" width="40" /></a>
 <a href="https://instagram.com/parshav_789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parshav_789" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/parshav_singla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parshav_singla" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Parshav_singla01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parshav_singla" height="30" width="40" /></a>
 <a href="https://discord.gg/eKzQqyD3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eKzQqyD3" height="30" width="40" /></a>
 </p>
 
