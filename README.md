@@ -10,13 +10,13 @@
 
 <h2 align="left">  🧐 Some Facts about me !</h2>
 
-- 🔭 I’m figuring out my strength how deep could i go in **Artificial Intelligence**
+- 🔭 Currently working as **Artificial Intelligence Researcher** at **AI Institute of University of South Carolina**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently building projects in **Natural Language Processing**
 
 - 👯 I’m looking for collaboration on projects related to **AI/ML**
 
-- 💬 Ask me about **Android Development**
+- 💬 Ask me about **Blockchain & Android Development**
 
 - 📫 How to reach me **parshav031@gmail.com**
 
