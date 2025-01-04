@@ -2,9 +2,9 @@
 <h1 align="center">Hey👋 Friend's!</h1>
 <h3 align="center">Hi 🙋‍♂️, I'm Parshav, an AI/ML developer with a passion for design and model creation</h3>
  
-<p align="left" href="https://visitcount.itsvg.in">
+<!-- <p align="left" href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Parshav14&label=Profile%20Views&color=0&icon=5&pretty=false" />
-</p>
+</p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parshav14" alt="parshav14" /></a> </p>
 
