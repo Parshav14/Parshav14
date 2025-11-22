@@ -1,7 +1,17 @@
 <!-- ====================== HEADER ====================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:111827&height=260&section=header&text=Parshav%20Singla&fontSize=52&fontAlignY=38&fontColor=ffffff&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Software%20Developer&descAlignY=60&descAlign=50" alt="Parshav Singla Header" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header
+    &color=0:020617,50:0f172a,100:1d4ed8
+    &text=Parshav%20Singla
+    &fontSize=52
+    &fontAlignY=38
+    &fontColor=ffffff
+    &desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Software%20Developer
+    &descAlignY=60
+    &descAlign=50" 
+    alt="Parshav Singla Header" />
 </p>
 
 <p align="center">
@@ -257,7 +267,7 @@ Now        | Building ML-driven products & preparing for AI / ML / SWE roles
 
 <!-- Core stats -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Parshav14&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Parshav14&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
 <br/><br/>
 
@@ -292,7 +302,14 @@ Now        | Building ML-driven products & preparing for AI / ML / SWE roles
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Parshav14&theme=onestar&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Parshav14
+    &theme=onedark
+    &no-frame=true
+    &no-bg=true
+    &row=1
+    &column=7" 
+    alt="GitHub Trophies" />
 </p>
 
 ---
@@ -351,5 +368,10 @@ looking_for:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:020617&height=140&section=footer" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving
+    &height=140
+    &section=footer
+    &color=0:020617,50:020617,100:1d4ed8" 
+  />
 </p>
