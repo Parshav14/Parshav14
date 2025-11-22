@@ -60,8 +60,6 @@ I enjoy turning research-driven ideas into **working software** - with reliabili
 
 > Focused on Generative AI, Agentic reliable engineering, and scalable systems.
 
-<br/>
-
 ### 🧩 Languages
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,go,bash,flutter" height="50" />
