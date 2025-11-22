@@ -6,8 +6,6 @@
   <img src="https://visitcount.itsvg.in/api?id=Parshav14&label=Profile%20Views&color=0&icon=5&pretty=false" />
 </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parshav14" alt="parshav14" /></a> </p>
-
 <img align ="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <h2 align="left">  🧐 Some Facts about me !</h2>
