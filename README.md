@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>AI Engineer · ML Researcher · Software Developer</b><br>
-  I build practical, reliable and scalable AI systems — from models to production.
+  I build practical, reliable and scalable AI systems - from models to production.
 </p>
 
 <br/>
@@ -32,16 +32,14 @@
 
 ## 👋 About Me
 
-Hi — I'm **Parshav**, a Computer Science Engineer focused on:
+Hi - I'm **Parshav**, a Computer Science Engineer focused on:
 
-- Applied **Machine Learning**
-- **Speech + NLP systems**
-- **LLMs**
+- Applied **Artificial Intelligence + Machine Learning**
+- **Gen AI + Deep Learning + LLMs + NLP systems**
+- **Software Development and Management**
 - Scalable **backend + data engineering**
 
-I enjoy turning research-driven ideas into **working software** — with reliability, clarity and measurable outcomes.
-
-📍 Based in India
+I enjoy turning research-driven ideas into **working software** - with reliability, clarity and measurable outcomes.
 
 ---
 
@@ -96,21 +94,11 @@ I enjoy turning research-driven ideas into **working software** — with reliabi
 
 ---
 
-<!-- ====================== STATIC TROPHIES ====================== -->
-
-## 🏅 Achievements Snapshot
-
-<p align="center" style="font-size:24px;">
-🥇 🛰️ 🤖 📄 🏆  
-</p>
-
----
-
 <!-- ====================== CLOSING ====================== -->
 
 <p align="center">
 Building the future means learning fast, iterating honestly, and shipping consistently.<br><br>
-<i>If something here sparks a collaboration — reach out.</i>
+<i>If something here sparks a collaboration - reach out.</i>
 </p>
 
 <p align="center">
