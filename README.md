@@ -35,8 +35,8 @@ $ published
 > Elsevier KBS (Q1, IF 8.0) — First Author
 > Springer LNNS, ICICC 2025
 
-$ building_toward
-> GSoC 2027 — active open-source contributor
+$ building
+> Active open-source contributor
 
 $ status
 > Online — building something right now
