@@ -132,7 +132,7 @@ tools:         [VS Code, Figma, Postman, Streamlit]
 
 <details>
 <summary><b>🐍 Live contribution snake</b></summary>
-<br/>
+  
 <img src="https://raw.githubusercontent.com/Parshav14/Parshav14/output/github-contribution-grid-snake.svg" width="100%" />
 </details>
 
