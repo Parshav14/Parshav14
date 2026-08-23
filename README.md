@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:ff0844,50:ff6a88,100:ff99ac&height=170&section=header&text=PARSHAV%20SINGLA&fontColor=ffffff&fontSize=44&fontAlignY=40&animation=fadeIn&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Software%20Developer&descAlignY=62&descSize=17" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:ffe3ea,50:ffb3c1,100:ff8fa3&height=170&section=header&text=PARSHAV%20SINGLA&fontColor=1a1a1a&fontSize=44&fontAlignY=40&animation=fadeIn&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Software%20Developer&descAlignY=62&descSize=17" />
-  <img alt="Parshav Singla" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0844,50:ff6a88,100:ff99ac&height=170&section=header&text=PARSHAV%20SINGLA&fontColor=ffffff&fontSize=44&fontAlignY=40&animation=fadeIn&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Software%20Developer&descAlignY=62&descSize=17" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:ff0844%2C50:ff6a88%2C100:ff99ac&height=180&section=header&text=PARSHAV%20SINGLA&fontColor=ffffff&fontSize=48&fontAlignY=40&animation=fadeIn&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Software%20Developer&descAlignY=64&descSize=19" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:ffe3ea%2C50:ffb3c1%2C100:ff8fa3&height=180&section=header&text=PARSHAV%20SINGLA&fontColor=1a1a1a&fontSize=48&fontAlignY=40&animation=fadeIn&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Software%20Developer&descAlignY=64&descSize=19" />
+  <img alt="Parshav Singla" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0844,50:ff6a88,100:ff99ac&height=180&section=header&text=PARSHAV%20SINGLA&fontColor=ffffff&fontSize=48&fontAlignY=40&animation=fadeIn&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Software%20Developer&descAlignY=64&descSize=19" width="100%" />
 </picture>
 
 <div align="center">
@@ -34,12 +34,6 @@ $ focus
 $ published
 > Elsevier KBS (Q1, IF 8.0) — First Author
 > Springer LNNS, ICICC 2025
-
-$ building
-> Active open-source contributor
-
-$ status
-> Online — building something right now
 ```
 
 </td>
@@ -53,7 +47,7 @@ $ status
 
 <br/>
 
-## <h2>📄 Publications</h2>
+## 📄 Publications
 
 <table>
 <tr>
@@ -78,7 +72,7 @@ Neural vocoder-based speech transformation — flat read-aloud text into natural
 
 <br/>
 
-## <h2>⚙️ Stack</h2>
+## ⚙️ Stack
 
 ```yaml
 agentic_ai:    [LangChain, LangGraph, RAG Pipelines, Vector DBs, Multi-Agent Systems, HuggingFace]
@@ -90,12 +84,14 @@ tools:         [VS Code, Figma, Postman, Streamlit]
 ```
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,nodejs,cpp,java,js,ts,postgres,mongodb,docker,aws,git,github,linux,vscode" height="42" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,nodejs,cpp,java,js,ts&perline=8" height="55" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,aws,git,github,linux,vscode&perline=8" height="55" />
 </div>
 
 <br/>
 
-## <h2>🚀 Featured Work</h2>
+## 🚀 Featured Work
 
 ### 🧠 [Vision2Voice AI](https://vision2voiceai.vercel.app)
 `BLIP` `gTTS` `FastAPI` — Image → multilingual audio narration, 20+ languages, ~3s end-to-end latency, WCAG 2.1 AA accessible.
@@ -111,31 +107,31 @@ tools:         [VS Code, Figma, Postman, Streamlit]
 
 <br/>
 
-## <h2>📊 Stats & Activity</h2>
+## 📊 Stats & Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Parshav14&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parshav14&layout=compact&theme=radical&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Parshav14&show_icons=true&theme=radical&hide_border=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parshav14&layout=compact&theme=radical&hide_border=true" height="180" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Parshav14&theme=radical&hide_border=true" height="165" />
+<img src="https://streak-stats.demolab.com?user=Parshav14&theme=radical&hide_border=true" height="180" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parshav14&hide_border=true&bg_color=0D1117&color=FF4D6D&line=FF6B88&point=FFFFFF&area=true&area_color=FF4D6D" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parshav14&hide_border=true&bg_color=0D1117&color=FF4D6D&line=FF6B88&point=FFFFFF&area=true&area_color=FF4D6D" width="95%" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Parshav14&theme=radical&no-frame=true&row=1&margin-w=15&column=6" width="90%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Parshav14&theme=radical&no-frame=true&row=1&margin-w=15&column=6" width="95%" />
 
 </div>
 
 <br/>
 
 <details>
-<summary><b>🐍 Bonus: live contribution snake</b></summary>
+<summary><b>🐍 Live contribution snake</b></summary>
 <br/>
 <img src="https://raw.githubusercontent.com/Parshav14/Parshav14/output/github-contribution-grid-snake.svg" width="100%" />
 </details>
@@ -143,7 +139,7 @@ tools:         [VS Code, Figma, Postman, Streamlit]
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:ff99ac,50:ff6a88,100:ff0844&height=90&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:ff8fa3,50:ffb3c1,100:ffe3ea&height=90&section=footer" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff99ac,50:ff6a88,100:ff0844&height=90&section=footer" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:ff99ac%2C50:ff6a88%2C100:ff0844&height=100&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:ff8fa3%2C50:ffb3c1%2C100:ffe3ea&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff99ac,50:ff6a88,100:ff0844&height=100&section=footer" width="100%" />
 </picture>
