@@ -115,10 +115,6 @@ tools:         [VS Code, Figma, Postman, Streamlit]
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parshav14&hide_border=true&bg_color=0D1117&color=FF4D6D&line=FF6B88&point=FFFFFF&area=true&area_color=FF4D6D" width="95%" />
-
-<br/><br/>
-
 <img src="https://raw.githubusercontent.com/Parshav14/Parshav14/output/github-contribution-grid-snake.svg" width="95%" />
 
 </div>
