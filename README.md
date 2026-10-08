@@ -26,7 +26,7 @@ $ whoami
 > Parshav Singla — AI Engineer & Software Developer
 
 $ current_role
-> Software Developer @ Flick Network (Dubai, UAE)
+> Backend Developer @ Flick Network (Dubai, UAE)
 
 $ focus
 > ["LLM Agents", "RAG Pipelines", "Agentic Systems"]
