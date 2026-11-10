@@ -22,9 +22,6 @@
 <td width="55%" valign="top">
 
 ```bash
-$ whoami
-> Parshav Singla — AI Engineer & Software Developer
-
 $ current_role
 > Backend Engineer @ Flick Network (Dubai, UAE)
 
@@ -32,8 +29,9 @@ $ focus
 > ["LLM Agents", "RAG Pipelines", "Agentic Systems"]
 
 $ published
-> Elsevier KBS (Q1, IF 8.0) — First Author
-> Springer LNNS, ICICC 2025
+> Elsevier Knowledge-Based Systems (Q1, IF 8.0), first author
+> Springer LNNS, ICICC 2025, first author
+> Springer LNCS, NEW2AN 2026, first author (accepted)
 ```
 
 </td>
@@ -51,11 +49,20 @@ $ published
 
 <table>
 <tr>
-<td width="60">📘</td>
+<td width="60">🧠</td>
+<td>
+<b>EEG-Based Prediction of Music Enjoyment Using Deep Learning with Explainable Temporal Analysis</b><br/>
+<sub><b>NEW2AN 2026, Springer Lecture Notes in Computer Science</b>, accepted for presentation and publication · First Author</sub><br/>
+Six deep-learning models compared on 128-channel EEG from 20 listeners, with explainable temporal analysis.<br/>
+<a href="https://arxiv.org/abs/2610.20795"><b>Read the preprint →</b></a>
+</td>
+</tr>
+<tr>
+<td>📘</td>
 <td>
 <b>Cross-Lingual Semantic Alignment and Multi-Objective Reranking for Multilingual Abstractive Summarization</b><br/>
-<sub><b>Knowledge-Based Systems, Elsevier</b> — Q1, Impact Factor 8.0 · First Author</sub><br/>
-Hallucination-resistant multilingual summarization framework — evaluated across 5 languages, 50%+ relative gain in cross-lingual semantic consistency.<br/>
+<sub><b>Knowledge-Based Systems, Elsevier</b>, Q1, Impact Factor 8.0 · First Author</sub><br/>
+Hallucination-resistant multilingual summarisation framework, evaluated across 5 languages, 50%+ relative gain in cross-lingual semantic consistency.<br/>
 <a href="https://doi.org/10.1016/j.knosys.2026.116785"><b>Read the paper →</b></a>
 </td>
 </tr>
@@ -63,8 +70,8 @@ Hallucination-resistant multilingual summarization framework — evaluated acros
 <td>🎙️</td>
 <td>
 <b>Bridging the Gap: Converting Read Text to Conversational Dialogue</b><br/>
-<sub><b>Springer LNNS, ICICC 2025</b> · Samsung PRISM Research</sub><br/>
-Neural vocoder-based speech transformation — flat read-aloud text into natural conversational tone.<br/>
+<sub><b>Springer LNNS, ICICC 2025</b> · Samsung PRISM Research · First Author</sub><br/>
+Neural vocoder-based speech transformation: flat read-aloud text into a natural conversational tone.<br/>
 <a href="https://link.springer.com/chapter/10.1007/978-981-96-6681-2_38"><b>Read the paper →</b></a>
 </td>
 </tr>
@@ -112,10 +119,6 @@ tools:         [VS Code, Figma, Postman, Streamlit]
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Parshav14&theme=radical&hide_border=true" height="180" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Parshav14/Parshav14/output/github-contribution-grid-snake.svg" width="95%" />
 
 </div>
 
